@@ -67,7 +67,49 @@ export const TechnicalNotes: React.FC = () => {
             </div>
 
           </Card>
+          {/* Transformer Article */}
 
+<Card className="rounded-2xl border border-slate-200 hover:-translate-y-1 hover:shadow-lg transition-all duration-300 p-7">
+
+  <div className="flex items-center gap-3 mb-4">
+
+    <BookOpen className="h-6 w-6 text-blue-600" />
+
+    <span className="px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-semibold">
+      Deep Learning
+    </span>
+
+  </div>
+
+  <h3 className="text-2xl font-bold text-slate-900">
+    Understanding Transformers
+  </h3>
+
+  <p className="mt-4 text-slate-600 leading-7">
+    A beginner-friendly introduction to the Transformer architecture,
+    explaining why Transformers were introduced, how self-attention works,
+    and the complete workflow from input tokens to the output layer.
+  </p>
+
+  <div className="mt-6 flex items-center justify-between">
+
+    <span className="text-sm text-slate-500">
+      6 min read
+    </span>
+
+    <a
+      href="/notes/Transformer Architecture.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex items-center gap-2 text-blue-600 font-semibold hover:gap-3 transition-all"
+    >
+      Read Article
+      <ArrowRight className="h-4 w-4" />
+    </a>
+
+  </div>
+
+</Card>
         </div>
 
       </Container>
