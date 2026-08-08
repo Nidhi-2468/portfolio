@@ -81,7 +81,7 @@ export const About: React.FC = () => {
 
               <div className="space-y-4 text-slate-600 leading-relaxed font-light text-base">
                 <p>
-                  My academic journey began with a rigorous focus on abstract logic and analytical reasoning, culminating in my B.Sc. in Mathematics (Honours) from Banaras Hindu University. Eager to channel these quantitative frameworks into actionable business outcomes, I pursued an M.S. in Quality Management Science at the Indian Statistical Institute (ISI), Bengaluru, specializing in Statistical Quality Control and Operations Research.
+                  My academic journey began with a rigorous focus on abstract logic and analytical reasoning, culminating in my B.Sc. in Mathematics (Honours) from Banaras Hindu University. Eager to channel these quantitative frameworks into actionable business outcomes, I pursued an M.S. in Quality Management Science at the Indian Statistical Institute (ISI), Bengaluru, specializing in Applied Statistics and Operations Research.
                 </p>
                 <p>
                   I thrive at the intersection of mathematics, statistics, and machine learning. Rather than viewing optimization algorithms and data models as mere theoretical constructs, I enjoy translating them into solutions for practical corporate bottlenecks. My skill set allows me to merge predictive modeling with operations optimization to construct comprehensive, data-driven decision support engines.
@@ -121,8 +121,8 @@ export const About: React.FC = () => {
                   </div>
                   <h3 className="font-bold text-slate-800 text-sm">Current Experience</h3>
                   <div className="text-xs text-slate-500 space-y-1">
-                    <p className="font-semibold text-slate-700">Data Analysis Intern</p>
-                    <p>CGI</p>
+                    <p className="font-semibold text-slate-700">Student</p>
+                    <p>ISI Bangalore</p>
                   </div>
                 </div>
               </Card>

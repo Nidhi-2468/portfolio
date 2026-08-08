@@ -121,12 +121,12 @@ export const Home: React.FC = () => {
               </h1>
               
               <p className="text-lg sm:text-xl font-medium text-slate-600 tracking-wide">
-                Data Scientist | Machine Learning | Operations Research
+                Data Science | Machine Learning | Operations Research
                 
               </p>
               
               <p className="text-slate-500 text-base leading-relaxed max-w-2xl font-light">
-                I am pursuing an M.S. in Quality Management Science at the Indian Statistical Institute, Bengaluru, specializing in Statistical Quality Control and Operations Research. I enjoy solving real-world business problems using machine learning, optimization, statistical analysis, and data-driven decision making.
+                I am pursuing M.S. in Quality Management Science (QMS) at the Indian Statistical Institute, Bengaluru, specializing in Applied Statistics and Operations Research. I am interested in solving real-world problems through data science, machine learning, statistical analysis, and optimization.
               </p>
             </div>
 
