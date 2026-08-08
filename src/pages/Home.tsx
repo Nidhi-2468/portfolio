@@ -218,7 +218,7 @@ export const Home: React.FC = () => {
                 <div className="flex gap-3">
                   <GraduationCap className="h-5 w-5 text-slate-400 shrink-0 mt-0.5" />
                   <div className="space-y-0.5">
-                    <p className="font-bold text-slate-800 text-xs">M.S. Quality Management Science</p>
+                    <p className="font-bold text-slate-800 text-xs">M.S. QMS (Applied Statistics and Operations Research)</p>
                     <p className="text-slate-500 text-xs leading-relaxed">Indian Statistical Institute, Bengaluru</p>
                   </div>
                 </div>
