@@ -7,7 +7,7 @@ import { GraduationCap } from 'lucide-react';
 
 export const Resume: React.FC = () => {
   return (
-    <section id="resume" className="py-20 bg-slate-50 border-y border-slate-100">
+    <section id="education" className="py-20 bg-slate-50 border-y border-slate-100">
       <Container>
         <div className="space-y-12">
           <div className="max-w-3xl">
