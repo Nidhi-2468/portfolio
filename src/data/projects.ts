@@ -98,53 +98,8 @@ const projects: Project[] = [
 ],
 
     github: "https://github.com/Nidhi-2468/supplier-risk-prediction"
-  },
-  {
-  id: 3,
+  }
 
-  title: "Customer Churn Prediction",
-
-  category: "Machine Learning",
-
-  featured: true,
-
-  image: "/projects/churn.png",
-
-  shortDescription:
-    "Built machine learning models to predict customer churn and identify the factors driving customer attrition using telecom customer data.",
-
-  problem:
-    "Customer retention is critical for subscription-based businesses. The objective was to identify customers likely to churn and uncover the key factors influencing their decision.",
-
-  solution:
-    "Performed data preprocessing, feature engineering, and exploratory data analysis before training Logistic Regression and Random Forest models. Compared model performance using accuracy, precision, recall, F1-score, and confusion matrix.",
-
-  technologies: [
-    "Python",
-    "Pandas",
-    "NumPy",
-    "Scikit-learn",
-    "Logistic Regression",
-    "Random Forest",
-    "Matplotlib"
-  ],
-
-  highlights: [
-    "Performed feature engineering and exploratory data analysis",
-    "Compared Logistic Regression and Random Forest models",
-    "Evaluated model performance using multiple metrics",
-    "Identified major drivers influencing customer churn"
-  ],
-
-  results: [
-    "Achieved 80.4% classification accuracy",
-    "Identified contract type and tenure as major churn factors",
-    "Generated business recommendations for customer retention",
-    "Improved model interpretability using coefficient analysis"
-  ],
-
-  github: "https://github.com/Nidhi-2468/customer-churn-prediction"
-}
 ];
 
 export default projects;
